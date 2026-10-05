@@ -68,12 +68,13 @@ An exploration of how the physical world could be represented digitally in a mor
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=young-papo&theme=github_dark" width="100%" alt="GitHub contribution activity">
+<a href="https://github.com/young-papo">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=young-papo&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&hide_border=true" width="100%" alt="Young Papo GitHub activity graph">
+</a>
 
-<br><br>
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=young-papo&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" height="170" alt="GitHub statistics">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=young-papo&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="170" alt="Top languages">
+<sub>Real activity from my GitHub profile</sub>
 
 </div>
 
