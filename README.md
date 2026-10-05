@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/238316307?v=4" width="120" height="120" alt="Paul Oudy Jean Charles" style="border-radius:50%; object-fit:cover;">
+<img src="https://avatars.githubusercontent.com/u/238316307?v=4" width="120" height="120" alt="Young Papo" style="border-radius:50%; object-fit:cover;">
 
-# Paul Oudy Jean Charles
+# Young Papo
 
-### AKA **Young Papo** · Builder · Founder · Product-minded Developer
+### Builder · Founder · Creator
 
-I build products across **technology, design, AI, data and entrepreneurship** — from consumer apps to long-term research projects.
+I build ideas into products across technology, design, AI and entrepreneurship.
 
 <a href="https://github.com/young-papo">GitHub</a>
 &nbsp;·&nbsp;
-<a href="https://www.instagram.com/whats.on.you/">What's On You</a>
+<a href="https://www.instagram.com/whats.on.you/">Instagram</a>
+&nbsp;·&nbsp;
+<a href="https://woy-marketplace.com">WOY Marketplace</a>
 
 </div>
 
@@ -18,51 +20,31 @@ I build products across **technology, design, AI, data and entrepreneurship** �
 
 ### About me
 
-I'm an independent builder interested in taking ideas from **problem → concept → product → experimentation → iteration**.
+I'm an independent builder focused on creating products, exploring new ideas and turning concepts into things people can actually use.
 
-I enjoy working across product strategy, UI/UX, software engineering, AI, data and business rather than limiting myself to one discipline.
+I'm interested in technology, product design, AI, entrepreneurship and the process of building from the ground up.
 
-My current work is centered around three very different ideas:
+### What I'm building
 
-### 🛍️ WOY Marketplace
+**WOY Marketplace**
 
-A peer-to-peer marketplace built around a simple idea: **make buying and selling locally fast, accessible and frictionless.**
+A simple peer-to-peer marketplace designed to make buying and selling locally easier, faster and more accessible.
 
-WOY started from the *What's On You* ecosystem and is being developed as a broader marketplace beyond a single country or community. The product focuses on everyday peer-to-peer commerce, discovery, listings, seller/buyer interaction and local transactions.
+<a href="https://woy-marketplace.com">Visit WOY Marketplace →</a>
 
-**Stack:** React Native · Expo · Firebase · TypeScript
+**Gabriel**
 
-<a href="https://www.instagram.com/whats.on.you/">What's On You on Instagram →</a>
-
-### 📊 Gabriel
-
-A long-term **financial and market intelligence research project**.
-
-Gabriel is being developed to study financial markets, economics, trading, crypto, portfolios and personal-finance concepts by combining **market data, charts, mathematics, historical context, macroeconomics, news, quantitative models and other evidence**.
-
-The goal is not to depend on one indicator or one model. Gabriel is designed around evidence aggregation, uncertainty, risk, timeframe-aware information, cross-market relationships and continuous evaluation of predictions against later outcomes.
-
-The project is currently a personal research programme. It does **not** represent a validated trading strategy or live trading system.
+An experimental intelligence project exploring financial markets, economics and the way information can be combined to better understand markets and financial decisions.
 
 <a href="https://github.com/young-papo/Gabriel">Explore Gabriel →</a>
 
-### 🌐 Project X
+**Project X**
 
-A long-term exploration into **structured digital representations of the physical world**.
-
-Project X is not simply a 3D-model library or a physics engine. The idea is to create structured digital objects that can describe an object's **geometry, physical properties, materials, conditions, sources and uncertainty**.
-
-3D is the representation layer. Structured physical data is the core. Simulation is one possible application.
-
-The long-term vision includes potential use in **games, simulation, education, engineering, robotics, research, digital twins, AR/VR and physical AI**, while remaining interoperable with existing ecosystems rather than trying to replace them.
-
-**Current focus:** defining the object model, physical data model, validation and provenance before building the larger platform.
+An exploration of how the physical world could be represented digitally in a more structured, useful and realistic way.
 
 <a href="https://github.com/young-papo/project-x">Explore Project X →</a>
 
----
-
-### Technologies & tools
+### Technologies
 
 <p>
 <img src="https://img.shields.io/badge/React%20Native-111111?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native">
@@ -78,46 +60,6 @@ The long-term vision includes potential use in **games, simulation, education, e
 </p>
 
 ---
-
-### What I'm building
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-<h4>WOY Marketplace</h4>
-
-Peer-to-peer commerce focused on making local buying and selling simple and accessible.
-
-<br><br>
-
-<b>Product · Mobile · Marketplace</b>
-
-</td>
-<td width="33%" valign="top">
-
-<h4>Gabriel</h4>
-
-Market and financial intelligence research combining data, economics, quantitative analysis and continuous evaluation.
-
-<br><br>
-
-<b>AI · Markets · Research</b>
-
-</td>
-<td width="33%" valign="top">
-
-<h4>Project X</h4>
-
-A structured digital representation layer for real-world physical objects and their properties.
-
-<br><br>
-
-<b>3D · Data · Simulation</b>
-
-</td>
-</tr>
-</table>
 
 ### GitHub activity
 
