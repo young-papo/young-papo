@@ -69,12 +69,12 @@ An exploration of how the physical world could be represented digitally in a mor
 <div align="center">
 
 <a href="https://github.com/young-papo">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=young-papo&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&hide_border=true" width="100%" alt="Young Papo GitHub activity graph">
+<img src="https://github.com/users/young-papo/contributions" width="100%" alt="Young Papo GitHub contributions">
 </a>
 
 <br>
 
-<sub>Real activity from my GitHub profile</sub>
+<sub>GitHub contributions</sub>
 
 </div>
 
