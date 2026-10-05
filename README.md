@@ -58,6 +58,7 @@ An exploration of how the physical world could be represented digitally in a mor
 <img src="https://img.shields.io/badge/Google%20Cloud-111111?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="Google Cloud">
 <img src="https://img.shields.io/badge/Expo-111111?style=flat-square&logo=expo&logoColor=FFFFFF" alt="Expo">
 <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=FFFFFF" alt="Next.js">
+<img src="https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="Vercel">
 <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032" alt="Git">
 </p>
 
