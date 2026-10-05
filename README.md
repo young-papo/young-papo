@@ -54,6 +54,8 @@ An exploration of how the physical world could be represented digitally in a mor
 <img src="https://img.shields.io/badge/Kotlin-111111?style=flat-square&logo=kotlin&logoColor=7F52FF" alt="Kotlin">
 <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
 <img src="https://img.shields.io/badge/Firebase-111111?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase">
+<img src="https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase">
+<img src="https://img.shields.io/badge/Google%20Cloud-111111?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="Google Cloud">
 <img src="https://img.shields.io/badge/Expo-111111?style=flat-square&logo=expo&logoColor=FFFFFF" alt="Expo">
 <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=FFFFFF" alt="Next.js">
 <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032" alt="Git">
