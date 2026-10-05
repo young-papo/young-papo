@@ -69,7 +69,7 @@ An exploration of how the physical world could be represented digitally in a mor
 <div align="center">
 
 <a href="https://github.com/young-papo">
-<img src="https://github.com/users/young-papo/contributions" width="100%" alt="Young Papo GitHub contributions">
+<img src="./assets/contributions.svg" width="100%" alt="Young Papo GitHub contributions">
 </a>
 
 <br>
