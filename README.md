@@ -24,9 +24,16 @@ I build ideas into products across technology, design, AI and entrepreneurship.
 
 ### About me
 
-I'm an independent builder focused on creating products, exploring new ideas and turning concepts into things people can actually use.
+Born in June 2004 in Les Cayes, in the south of Haiti.
 
-I'm interested in technology, product design, AI, entrepreneurship and the process of building from the ground up.
+I'm drawn to modernity, technology, and philosophy — to ideas that push how we think and build. Off the screen, basketball is a big part of my life, along with hip-hop culture, music, and the things that make life feel alive.
+
+I have a rebellious streak. I like breaking the rules that don't make sense, and I'm drawn to people who stand out and do things differently. I love building with a team when the energy is right — and I also protect my solitude. Quiet time is where a lot of my clearest thinking happens.
+
+I'm an independent builder: I turn ideas into products people can actually use.
+
+**Let's talk** — I read every message.  
+[pauloudyjeancharles@gmail.com](mailto:pauloudyjeancharles@gmail.com)
 
 ### What I'm building
 
