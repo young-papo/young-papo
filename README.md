@@ -40,7 +40,9 @@ Buy & sell locally, instantly — a social peer-to-peer marketplace for iOS, And
 
 <br>
 
-<a href="https://woy-marketplace.com">Visit WOY Marketplace →</a>
+<a href="https://github.com/WOY-Marketplace">Explore WOY Marketplace →</a>
+&nbsp;·&nbsp;
+<a href="https://woy-marketplace.com">Website →</a>
 
 </div>
 
