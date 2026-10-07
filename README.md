@@ -36,7 +36,7 @@ I'm interested in technology, product design, AI, entrepreneurship and the proce
 
 #### WOY Marketplace
 
-Buy & sell locally, instantly — a social peer-to-peer marketplace for iOS, Android and web.
+WOY Marketplace is a free peer-to-peer marketplace mobile app that connects local buyers and sellers in the simplest, fastest, and most secure way possible. WOY Marketplace gives you everything you need to list, sell, and earn — right from your phone.
 
 <br>
 
