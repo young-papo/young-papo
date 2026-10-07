@@ -1,4 +1,4 @@
-name: Update GitHub activity
+name: Update GitHub metrics
 
 on:
   push:
@@ -29,3 +29,23 @@ jobs:
           output_action: commit
           committer_branch: main
           committer_message: "chore: update GitHub activity [Skip GitHub Action]"
+
+      - name: Generate most used languages graph
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/github-languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+          plugin_languages_ignored: html, css, dockerfile, makefile, shell, markdown
+          config_output: svg
+          config_display: large
+          config_timezone: America/New_York
+          output_action: commit
+          committer_branch: main
+          committer_message: "chore: update GitHub languages [Skip GitHub Action]"
