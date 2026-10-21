@@ -10,6 +10,8 @@ I build ideas into products across technology, design, AI and entrepreneurship.
 
 <a href="https://github.com/young-papo">GitHub</a>
 &nbsp;·&nbsp;
+<a href="https://linkedin.com/in/paul-oudy-jean-charles">LinkedIn</a>
+&nbsp;·&nbsp;
 <a href="https://x.com/youngpapo_">X</a>
 &nbsp;·&nbsp;
 <a href="https://bsky.app/profile/youngpapo.bsky.social">Bluesky</a>
